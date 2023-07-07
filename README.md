@@ -1,1 +1,1 @@
-# Bintang
+Bintang1/index.txt
